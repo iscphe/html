@@ -5,3 +5,13 @@
 .footer {
  background-color: oceanblue;
 }
+
+.galleria {
+     background: linear-gradient(180deg, 
+    rgb(155, 195, 202) 0%,
+    rgb(114, 153, 128) 33%,
+    rgb(82, 100, 95) 66%,
+    rgb(155, 213, 211) 99%);
+    margin: 1vw;
+    padding: 1vw;
+  }
