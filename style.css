@@ -3,6 +3,8 @@
 text-align: center;
 color: rgb(43, 39, 0);
     border-style: solid;
+  margin: 1vw;
+    padding: 1vw; 
  border-radius: 10px;
      }
 
@@ -15,7 +17,6 @@ background: linear-gradient(90deg, rgba(137,215,99,1) 0%, rgba(246,137,229,1) 55
 border-style: solid;
  margin: 1vw;
     padding: 1vw; 
-    color: rgb(43, 39, 0);
  border-radius: 10px;
    
 }
