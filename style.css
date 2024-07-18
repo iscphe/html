@@ -1,48 +1,45 @@
-.myworks { background: linear-gradient(90deg, rgba(255,222,222,1) 0%, rgba(205,228,255,1) 35%, rgba(135,167,159,1) 100%);
-          text-color: yellow; 
+.TXT {background: linear-gradient(90deg, rgba(137,215,99,1) 0%, rgba(246,137,229,1) 55%, rgba(49,151,172,1) 100%);
 text-align: center;
-color: rgb(43, 39, 0);
     border-style: solid;
   margin: 1vw;
     padding: 1vw; 
- border-radius: 10px;
+ border-radius: 5px;
+ border-color: rgb(71,14,83);
      }
 
-.body{background: rgb(255,222,222);
-background: linear-gradient(90deg, rgba(255,222,222,1) 0%, rgba(205,228,255,1) 35%, rgba(135,167,159,1) 100%);
+.body{background: rgb(59,158,255);
+background: linear-gradient(90deg, rgba(59,158,255,1) 0%, rgba(173,186,255,1) 11%, rgba(202,255,143,1) 23%, rgba(71,164,141,1) 60%, rgba(106,217,102,1) 100%);;
      }
 
-.footer { text-align: center;
+.footer { border-radius: 5px;
+text-align: center;
 background: linear-gradient(90deg, rgba(137,215,99,1) 0%, rgba(246,137,229,1) 55%, rgba(49,151,172,1) 100%);
 border-style: solid;
  margin: 1vw;
     padding: 1vw; 
  border-radius: 10px;
+ 
+border-color: rgb(71,14,83);
    
 }
 
 
-.galleria {
-     background: linear-gradient(180deg, 
-    rgb(155, 195, 202) 0%,
-    rgb(114, 153, 128) 33%,
-    rgb(82, 100, 95) 66%,
-    rgb(155, 213, 211) 99%);
+.galleria { border-radius: 5px;
+     background: linear-gradient(90deg, rgba(137,215,99,1) 0%, rgba(246,137,229,1) 55%, rgba(49,151,172,1) 100%);
     margin: 1vw;
     padding: 1vw; 
 border-style: solid;
-border-color: blue;
+border-color: rgb(71,14,83);
+border-radius: 5px;
   }
 
-.citata {background: linear-gradient(180deg, 
-    rgb(155, 195, 202) 0%,
-    rgb(114, 153, 128) 33%,
-    rgb(82, 100, 95) 66%,
-    rgb(155, 213, 211) 99%);
+.citata {background: linear-gradient(90deg, rgba(137,215,99,1) 0%, rgba(246,137,229,1) 55%, rgba(49,151,172,1) 100%);;
     margin: 1vw;
     padding: 1vw; 
 border-style: solid;
-border-color: blue;
+
+border-color: rgb(71,14,83);
+border-radius: 5px;
   }
   
 .random-phrase { text-align: left;
