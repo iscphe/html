@@ -16,7 +16,7 @@
     padding: 1vw;
   }
 
-.citata { 
+.citata { width: auto;
     background: linear-gradient(180deg, 
     rgb(155, 195, 150) 20%,
     rgb(140, 153, 100) 3%,
