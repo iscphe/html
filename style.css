@@ -4,6 +4,7 @@ background: linear-gradient(90deg, rgba(137,215,99,1) 0%, rgba(246,137,229,1) 55
 border-style: solid;
  margin: 1vw;
     padding: 1vw; 
+border-color: #4a003f;
    
 }
 
@@ -16,12 +17,12 @@ border-style: solid;
     margin: 1vw;
     padding: 1vw; 
 border-style: solid;
-border-color: blue;
+border-color: #4a003f;
   }
 
 .citata {  background: linear-gradient(180deg, rgba(137,215,99,1) 0%, rgba(82,82,194,1) 55%, rgba(49,151,172,1) 100%);
 border-style: solid;
-border-color: blue;
+border-color: #4a003f;
 margin: 1vw;
     padding: 1vw; 
   }
