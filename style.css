@@ -1,14 +1,18 @@
+.h { color: yellow; 
+text-align: center;
+color: rgb(43, 39, 0);
+     }
 .body{ background-color: rgb(214, 161, 209); 
      }
-
 .footer { text-align: center;
 background: linear-gradient(90deg, rgba(137,215,99,1) 0%, rgba(246,137,229,1) 55%, rgba(49,151,172,1) 100%);
 border-style: solid;
  margin: 1vw;
     padding: 1vw; 
-border-color: #4a003f;
+    color: rgb(43, 39, 0);
    
 }
+
 
 .galleria {
      background: linear-gradient(180deg, 
@@ -19,19 +23,23 @@ border-color: #4a003f;
     margin: 1vw;
     padding: 1vw; 
 border-style: solid;
-border-color: #4a003f;
+border-color: blue;
   }
 
-.citata {  background: linear-gradient(180deg, rgba(137,215,99,1) 0%, rgba(82,82,194,1) 55%, rgba(49,151,172,1) 100%);
+.citata {color: rgb(43, 39, 0);
+font-size: 22px;
+text-align: left
+    background: linear-gradient(180deg, rgba(137,215,99,1) 0%, rgba(82,82,194,1) 55%, rgba(49,151,172,1) 100%);
 border-style: solid;
-border-color: #4a003f;
+border-color: blue;
 margin: 1vw;
     padding: 1vw; 
   }
   
-.random-phrase { 
+.random-phrase { text-align: left;
 }
 
-.phrase 
+.phrase {
+text-align: left;}
 
 .author 
