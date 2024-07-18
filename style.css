@@ -1,11 +1,10 @@
-.h1{ 
-  }
 
-.footer { 
- background-color: oceanblue;
- text-align: left;
+.footer { text-align: center;
+background: linear-gradient(90deg, rgba(137,215,99,1) 0%, rgba(246,137,229,1) 55%, rgba(49,151,172,1) 100%);
 border-style: solid;
-border-color: blue;
+ margin: 1vw;
+    padding: 1vw; 
+   
 }
 
 .galleria {
@@ -20,39 +19,16 @@ border-style: solid;
 border-color: blue;
   }
 
-.citata { 
-background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+.citata {  background: linear-gradient(180deg, rgba(137,215,99,1) 0%, rgba(82,82,194,1) 55%, rgba(49,151,172,1) 100%);
 border-style: solid;
 border-color: blue;
+margin: 1vw;
+    padding: 1vw; 
   }
-
-.random-phrase {
-  margin: 1px auto;
-  position: absolute;
-  padding: 15px;
-  font-size: 1.5em;
-  font-style: italic;
-  border: 1px solid #ddd;
-border-style: solid;
-border-color: blue;
+  
+.random-phrase { 
 }
 
-.random-phrase #phrase {
-  text-align: left; 
-border:2px solid;
-border-style: solid;
-border-color: blue;
-}
+.phrase 
 
-.random-phrase #author {
-  text-align: right; font-style: bold;
-border-style: solid;
-border-color: blue;
-}
-
-.next-quote { 
-  padding: 5px 10px;
-  border: 1px solid #ddd;
-border-style: solid;
-border-color: blue;
-}
+.author 
