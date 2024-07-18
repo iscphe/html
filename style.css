@@ -1,8 +1,10 @@
 .h1{ 
   }
 
-.footer {
+.footer { 
  background-color: oceanblue;
+ text-align: left;
+border-style: solid;
 }
 
 .galleria {
@@ -12,11 +14,13 @@
     rgb(82, 100, 95) 66%,
     rgb(155, 213, 211) 99%);
     margin: 1vw;
-    padding: 1vw;
+    padding: 1vw; 
+border-style: solid;
   }
 
 .citata { 
 background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+border-style: solid;
   }
 
 .random-phrase {
@@ -26,18 +30,22 @@ background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100
   font-size: 1.5em;
   font-style: italic;
   border: 1px solid #ddd;
+border-style: solid;
 }
 
 .random-phrase #phrase {
   text-align: left; 
 border:2px solid;
+border-style: solid;
 }
 
 .random-phrase #author {
   text-align: right; font-style: bold;
+border-style: solid;
 }
 
 .next-quote { 
   padding: 5px 10px;
   border: 1px solid #ddd;
+border-style: solid;
 }
