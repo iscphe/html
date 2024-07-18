@@ -1,4 +1,4 @@
-.h1{
+.h1{ align:center;
   
 }
 
@@ -16,7 +16,8 @@
     padding: 1vw;
   }
 
-.citata { background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+.citata { 
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
   }
 
 .random-phrase {
