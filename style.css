@@ -17,8 +17,13 @@
   }
 
 .citata { 
-    
-    background-color: red;
+    background: linear-gradient(180deg, 
+    rgb(155, 195, 150) 20%,
+    rgb(140, 153, 100) 3%,
+    rgb(82, 150, 95) 30%,
+    rgb(155, 1503, 211) 99%);
+    margin: 3vw;
+    padding: 3vw;
   }
 
 .random-phrase {
