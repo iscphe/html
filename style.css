@@ -16,6 +16,13 @@
     padding: 1vw;
   }
 
+.citata { 
+ margin-left: auto;
+    margin-right: auto;
+    width: 6em
+    background-color: pink;
+}
+
 .random-phrase {
   margin: 1px auto;
   position: absolute;
