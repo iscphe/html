@@ -5,7 +5,7 @@
  background-color: oceanblue;
  text-align: left;
 border-style: solid;
-border-color: oceanblue;
+border-color: blue;
 }
 
 .galleria {
@@ -17,13 +17,13 @@ border-color: oceanblue;
     margin: 1vw;
     padding: 1vw; 
 border-style: solid;
-border-color: oceanblue;
+border-color: blue;
   }
 
 .citata { 
 background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
 border-style: solid;
-border-color: oceanblue;
+border-color: blue;
   }
 
 .random-phrase {
@@ -34,25 +34,25 @@ border-color: oceanblue;
   font-style: italic;
   border: 1px solid #ddd;
 border-style: solid;
-border-color: oceanblue;
+border-color: blue;
 }
 
 .random-phrase #phrase {
   text-align: left; 
 border:2px solid;
 border-style: solid;
-border-color: oceanblue;
+border-color: blue;
 }
 
 .random-phrase #author {
   text-align: right; font-style: bold;
 border-style: solid;
-border-color: oceanblue;
+border-color: blue;
 }
 
 .next-quote { 
   padding: 5px 10px;
   border: 1px solid #ddd;
 border-style: solid;
-border-color: oceanblue;
+border-color: blue;
 }
