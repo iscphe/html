@@ -16,7 +16,7 @@
     padding: 1vw;
   }
 
-.citata { width: auto;
+.citata { width: ;
     background: linear-gradient(180deg, 
     rgb(155, 195, 150) 20%,
     rgb(140, 153, 100) 3%,
@@ -36,7 +36,8 @@
 }
 
 .random-phrase #phrase {
-  text-align: left;
+  text-align: left; 
+border: 1px solid #ddd;
 }
 
 .random-phrase #author {
