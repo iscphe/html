@@ -9,7 +9,8 @@ align-content: center;
  border-color: mediumpurple;;
  }
 
- .TEXT1 { color: greenyellow;
+ .TEXT1 { background:gray; 
+    color: greenyellow;
     background: rgb(50, 55, 55 / 1.0);
     color: yellowgreen;
 text-align: center;
@@ -21,8 +22,13 @@ align-content: center;
  border-color: rgb(71,14,83);
      }
  
+ .head {background-color: rgb(50,50,222);
 
-.body{background: black;}
+        }
+
+.body{background-color: rgb(18,18,18)
+        
+    }
 
 .footer { border-radius: 5px;
 text-align: center;
@@ -61,4 +67,42 @@ border-radius: 5px;
 .phrase {
 text-align: left;}
 
-.author 
+.container1 {   display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.container2 {   display: grid;
+    grid-template-columns: 33% 33% 33%;
+        overflow: hidden;
+}
+
+.box1 { 
+    align-content: center; border-radius: 5px;
+text-align: center;
+background: rgb(25, 25, 25 / 1.0);
+border-style: solid;
+ margin: 1vw;
+    padding: 1vw; 
+ border-radius: 10px;
+ 
+border-color:#e00092;}
+
+.box2 { 
+    align-content: center; border-radius: 5px;
+text-align: center;
+background: rgb(25, 25, 25 / 1.0);
+border-style: solid;
+ margin: 1vw;
+    padding: 1vw; 
+ border-radius: 10px;
+ 
+border-color:#e00092;}
+
+.astro { align-content: center; 
+
+}
+
+.om { position: absolute;
+    top: 555;
+
+}
