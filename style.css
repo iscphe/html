@@ -2,7 +2,7 @@
     color: yellowgreen;
 text-align: center;
 align-content: center;
-    border-style: solid;
+    border-style: none\;
   margin: 1vw;
     padding: 1vw; 
  border-radius: 5px;
@@ -26,14 +26,14 @@ align-content: center;
 
         }
 
-.body{background-color: rgb(18,18,18)
+.body{background-color: rgb(22,18,18)
         
     }
 
 .footer { border-radius: 5px;
 text-align: center;
 background: rgb(25, 25, 25 / 1.0);
-border-style: solid;
+border-style: none;
  margin: 1vw;
     padding: 1vw; 
  border-radius: 10px;
@@ -43,13 +43,13 @@ border-color:#e00092;
 }
 
 
-.galleria { border-radius: 5px;
+.galleria { align-content: left;
+    border-radius: 1px;
      background: rgb(25, 25, 25 / 1.0);     
     margin: 1vw;
     padding: 1vw; 
-border-style: solid;
+border-style: 0;
 border-color: #a404cc;
-border-radius: 5px;
   }
 
 .citata {color: greenyellow;
@@ -74,6 +74,8 @@ text-align: left;}
 .container2 {   display: grid;
     grid-template-columns: 33% 33% 33%;
         overflow: hidden;
+        align: left;
+
 }
 
 .box1 { 
@@ -93,10 +95,9 @@ text-align: center;
 background: rgb(25, 25, 25 / 1.0);
 border-style: solid;
  margin: 1vw;
-    padding: 1vw; 
- border-radius: 10px;
+    padding: 1vw;
  
-border-color:#e00092;}
+border-color: #e00092;}
 
 .astro { align-content: center; 
 
