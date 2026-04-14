@@ -1,3 +1,31 @@
+.custom-cursor {
+cursor: url('your-cursor.png') 16 16, auto;
+}
+.body {
+cursor: url('your-cursor.png'), auto;
+}
+.button {
+cursor: url('your-cursor.png'), pointer;
+}
+
+.ball { animation-duration: 3s;
+  animation-name: slidein;
+
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+
+
 .TXT {background: rgb(25, 25, 25 / 1.0);
     color: yellowgreen;
 text-align: center;
